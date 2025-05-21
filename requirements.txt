@@ -30,7 +30,7 @@ cycler=0.11.0=pyhd3eb1b0_0
 cyrus-sasl=2.1.28=h52b45da_1
 dbus=1.13.18=hb2f20db_0
 expat=2.5.0=h6a678d5_0
-ffmpeg=4.3=hf484d3e_0
+ffmpeg=4.3=hf484d3e_0f
 filelock=3.13.1=py311h06a4308_0
 font-ttf-dejavu-sans-mono=2.37=hd3eb1b0_0
 font-ttf-inconsolata=2.001=hcb22688_0
@@ -172,7 +172,7 @@ readline=8.2=h5eee18b_0
 requests=2.31.0=py311h06a4308_0
 scikit-learn=1.2.2=py311h6a678d5_1
 scipy=1.11.4=py311h08b1b3b_0
-setuptools=68.2.2=py311h06a4308_0
+setuptools>=78.1.1
 sip=6.7.12=py311h6a678d5_0
 six=1.16.0=pyhd3eb1b0_1
 sqlite=3.41.2=h5eee18b_0
